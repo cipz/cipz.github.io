@@ -1,5 +1,0 @@
-baseURL = 'https://cipz.github.io/'
-languageCode = 'en-us'
-title = "Archie"
-theme="archie"
-publishDir="docs"
