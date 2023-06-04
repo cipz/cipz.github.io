@@ -10,11 +10,6 @@ pygmentsstyle = "monokai"
 
 paginate=10 # articles per page
 
-[params]
-	mode="auto" # color-mode → light,dark or auto
-	featherIconsCDN=true
-
-# Social Tags
 
 [[params.social]]
 name = "GitHub"
@@ -25,10 +20,3 @@ url = "https://github.com/cipz/"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/cvoinea/"
-
-# Main menu Items
-
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
