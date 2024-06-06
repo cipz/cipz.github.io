@@ -20,3 +20,13 @@ url = "https://github.com/cipz/"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/cvoinea/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
