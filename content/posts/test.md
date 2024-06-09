@@ -11,4 +11,4 @@ dateCreated: 2023-07-26T13:44:13.533Z
 # Header
 Your content here
 
-![alt text](image.png)
+![alt text](./image.png)
